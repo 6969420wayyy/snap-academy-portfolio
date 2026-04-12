@@ -1,7 +1,7 @@
 # snap-academy-portfolio
 This repository contains a collection of software engineering projects demonstrating my proficiency in Python, C++, and functional programming. My work spans from independent study of the UC Berkeley CS 61A curriculum to custom-built logic engines.
 
-🚀 Projects
+Projects
 1. Scheme Interpreter (Python/Scheme)
 
 Goal: Build a functional interpreter for the Scheme language using Python.
@@ -42,12 +42,12 @@ My Contribution: I wrote the simulation engine and the higher-order functions th
 
 Key Skills: Probabilistic logic and functional programming.
 
-🛠️ Technical Toolkit
+Technical Toolkit
 Languages: Python (Advanced), C++ (Intermediate), Scheme, HTML/CSS (Intro)
 
 Workflow: Git/GitHub, VS Code, Agentic AI Workflows (Claude Code)
 
 Academics: Independent Study of UC Berkeley CS 61A (Structure and Interpretation of Computer Programs).
 
-📝 Note on Authorship
+Note on Authorship
 The Scheme, Ants, Cats, and Hog projects were completed as part of an independent study of the UC Berkeley CS 61A curriculum. While the GUI and testing frameworks were provided by the instructional staff, all core logic and implementation files were written by me. The EasyChess Engine and any additional scripts are entirely original works.
