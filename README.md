@@ -11,6 +11,7 @@ My Contribution: I implemented the core evaluator and parser logic. I wrote the 
 Key Skills: Deep recursion, tree-based data structures, and lexical scoping.
 
 2. EasyChess Engine (C++)
+
 Goal: A lightweight, high-performance chess engine built from scratch.
 
 My Contribution: This is an original project. I designed the board representation using C++ vectors and implemented the conditional logic for valid move generation and win/loss detection.
@@ -18,6 +19,7 @@ My Contribution: This is an original project. I designed the board representatio
 Key Skills: Memory efficiency, low-level data structures, and C++ algorithmic optimization.
 
 3. Ants vs. SomeBees (Python)
+
 Goal: A complex tower defense game involving multiple interacting entities.
 
 My Contribution: I authored the logic for Object-Oriented Programming (OOP) components. I designed the inheritance structure for various Ant types and managed the state machine for game progression.
@@ -25,6 +27,7 @@ My Contribution: I authored the logic for Object-Oriented Programming (OOP) comp
 Key Skills: Class inheritance, state management, and multi-file project coordination.
 
 4. CATS: Typing Simulator (Python)
+
 Goal: A program that measures typing speed and provides autocorrect suggestions.
 
 My Contribution: I implemented the string manipulation logic and calculated the edit distance (Levenshtein distance) between strings for the autocorrect feature.
@@ -32,6 +35,7 @@ My Contribution: I implemented the string manipulation logic and calculated the 
 Key Skills: Autocorrect algorithms, list comprehensions, and real-time logic.
 
 5. Hog Simulator (Python)
+
 Goal: A simulator for a dice game used to calculate and optimize gaming strategies.
 
 My Contribution: I wrote the simulation engine and the higher-order functions that allow for strategy comparison and probability analysis.
