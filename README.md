@@ -3,6 +3,7 @@ This repository contains a collection of software engineering projects demonstra
 
 🚀 Projects
 1. Scheme Interpreter (Python/Scheme)
+
 Goal: Build a functional interpreter for the Scheme language using Python.
 
 My Contribution: I implemented the core evaluator and parser logic. I wrote the recursive functions that handle frame environments, procedure calls, and special forms.
