@@ -46,7 +46,6 @@ Key Skills: Probabilistic logic and functional programming.
 Technical Toolkit
 Languages: Python (Advanced), C++ (Intermediate), Scheme, HTML/CSS (Intro)
 
-Workflow: Git/GitHub, VS Code, Agentic AI Workflows (Claude Code)
 
 Academics: Independent Study of UC Berkeley CS 61A (Structure and Interpretation of Computer Programs).
 
