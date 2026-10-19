@@ -1,4 +1,5 @@
-# snap-academy-portfolio
+# projects
+
 This repository contains a collection of software engineering projects demonstrating my proficiency in Python, C++, and functional programming. My work spans from independent study of the UC Berkeley CS 61A curriculum to custom-built logic engines.
 
 Projects
